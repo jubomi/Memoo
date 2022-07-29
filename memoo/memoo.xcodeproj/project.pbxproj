@@ -15,6 +15,8 @@
 		580A06092887F9320024E469 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 580A06072887F9320024E469 /* LaunchScreen.storyboard */; };
 		580A06142887FA4B0024E469 /* model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 580A06132887FA4B0024E469 /* model.swift */; };
 		580A06162887FBA70024E469 /* MemoListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 580A06152887FBA70024E469 /* MemoListTableViewController.swift */; };
+		5854B9762892053400365A2D /* ComposeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5854B9752892053400365A2D /* ComposeViewController.swift */; };
+		5854B9782892076F00365A2D /* UIViewController+allert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5854B9772892076F00365A2D /* UIViewController+allert.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		580A060A2887F9320024E469 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		580A06132887FA4B0024E469 /* model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = model.swift; sourceTree = "<group>"; };
 		580A06152887FBA70024E469 /* MemoListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoListTableViewController.swift; sourceTree = "<group>"; };
+		5854B9752892053400365A2D /* ComposeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComposeViewController.swift; sourceTree = "<group>"; };
+		5854B9772892076F00365A2D /* UIViewController+allert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+allert.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +68,8 @@
 				580A05F92887F9300024E469 /* AppDelegate.swift */,
 				580A05FB2887F9300024E469 /* SceneDelegate.swift */,
 				580A06152887FBA70024E469 /* MemoListTableViewController.swift */,
+				5854B9752892053400365A2D /* ComposeViewController.swift */,
+				5854B9772892076F00365A2D /* UIViewController+allert.swift */,
 				580A05FF2887F9300024E469 /* Main.storyboard */,
 				580A06052887F9320024E469 /* Assets.xcassets */,
 				580A06072887F9320024E469 /* LaunchScreen.storyboard */,
@@ -155,6 +161,8 @@
 				580A05FA2887F9300024E469 /* AppDelegate.swift in Sources */,
 				580A05FC2887F9300024E469 /* SceneDelegate.swift in Sources */,
 				580A06162887FBA70024E469 /* MemoListTableViewController.swift in Sources */,
+				5854B9782892076F00365A2D /* UIViewController+allert.swift in Sources */,
+				5854B9762892053400365A2D /* ComposeViewController.swift in Sources */,
 				580A06042887F9300024E469 /* memoo.xcdatamodeld in Sources */,
 				580A06142887FA4B0024E469 /* model.swift in Sources */,
 			);
